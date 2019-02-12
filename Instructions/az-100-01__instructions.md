@@ -9,18 +9,6 @@ All tasks in this lab are performed from the Azure portal (including a PowerShel
 
 Lab files: none
 
-### Scenario
-  
-Adatum Corporation wants to use Azure Role Based Access Control and Azure Policy to control provisioning and management of their Azure resources. It also wants to be able to automate and track provisioning and management tasks.
-
-### Objectives
-  
-After completing this lab, you will be able to:
-
--  Configure delegation of provisioning and management of Azure resources by using built-in Role-Based Access Control (RBAC) roles and built-in Azure policies
-
--  Verify delegation by provisioning Azure resources as a delegated admin and auditing provisioning events
-
 
 ## Exercise 1: Configure delegation of provisioning and management of Azure resources by using built-in Role-Based Access Control (RBAC) roles and built-in Azure policies
 
